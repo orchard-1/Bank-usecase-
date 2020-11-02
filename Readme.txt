@@ -31,4 +31,4 @@
       credit card_number id DebitcardNUmber-1;
       eg:if Debitcard number is 5837043445160000 then Creditcard number is 5837043445159999. 
 
-# end.
+# ended.
