@@ -1,7 +1,7 @@
 # Bank-usecase
 ## documentaion for using BankUsecase used Singleton class Admin
 
-#choose any option from MAIN-MENU
+# choose any option from MAIN-MENU
     1.For Admin login
     2.For User login
 
